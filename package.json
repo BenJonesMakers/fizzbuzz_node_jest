@@ -1,0 +1,15 @@
+{
+  "name": "fizzbuzz_node_jest",
+  "version": "1.0.0",
+  "description": "Practice with Node and Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
