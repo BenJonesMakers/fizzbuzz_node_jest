@@ -7,3 +7,7 @@ test("returns 'fizz' if divisable by 3", function(){
 test("returns 'buzz' if divisible by 5", function() {
   expect(FizzBuzz.method(5)).toBe("buzz");
 })
+
+test("returns the number by default", function() {
+  expect(FizzBuzz.method(7)).toBe(7);
+})
